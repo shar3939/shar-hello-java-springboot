@@ -23,6 +23,7 @@ public class HelloWorldController {
 
     private static final Logger LOG = getLogger(HelloWorldController.class.getName());
 
+    private static final String HELLO = "hello";
     public static final String MESSAGE_KEY = "message";
     public static final String HOSTNAME_KEY = "hostname";
     public static final String IP_KEY = "ip";
